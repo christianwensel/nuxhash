@@ -25,8 +25,8 @@ from nuxhash.version import __version__
 
 
 BENCHMARK_SECS = 60
-DONATE_PROB = 0.005
-DONATE_ADDRESS = '3DJBpNcgP3Pihw45p9544PK6TbbYeMcnk7'
+DONATE_PROB = 0.5
+DONATE_ADDRESS = '3CcnXRKvpTTotqjfhchknQvYE539vyj1An'
 
 
 def main():
